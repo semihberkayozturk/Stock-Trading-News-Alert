@@ -2,10 +2,10 @@ import requests
 STOCK_NAME = input("Company's Stock Name: ")
 COMPANY_NAME = input("Company Name: ")
 
-STOCK_API = "1JBS89J6CVCZ8TNQ"
+STOCK_API = ""
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-NEWS_API = "3302041a17544a078f67314c08668b9c"
+NEWS_API = "News API"
 BOT_KEY =  "Your Telegram Bot Key"
 BOT_ID =  "Telegram Bot ID"
 BOT_ENDPOINT = f"https://api.telegram.org/bot"+BOT_KEY+"/sendMessage"
