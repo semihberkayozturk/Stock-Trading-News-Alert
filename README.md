@@ -1,6 +1,6 @@
 # Stock-Trading-News-Alert
 
-Stock Trading News Alert Project is a Python project which send stock news of given company with a Telegram bot.
+Stock Trading News Alert Project is a Python project which sends stock news of given company with a Telegram bot.
 
 
 You can check out this link in order to create a telegram bot.
